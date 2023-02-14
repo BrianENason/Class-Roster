@@ -30,7 +30,7 @@ int main() {
 	//This is where my student Information is going:
 	cout << "Course Title:      SCRIPTING AND PROGRAMMING - APPLICATIONS - C867" << endl;
 	cout << "Program Language:  C++" << endl;
-	cout << "My WGU Student ID: 001003011" << endl;
+	cout << "My WGU Student ID: ++++++++" << endl;
 	cout << "My Name:           Brian Nason" << endl << endl;
 
 	printLine();
